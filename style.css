@@ -1,0 +1,12 @@
+.nav a{
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+.jumbotron{
+	background-image: url(image/Europe.JPG);
+	height: 400px;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
